@@ -1,0 +1,21 @@
+# Závislosti
+node_modules/
+
+# Build výstup (Vite)
+dist/
+
+# macOS
+.DS_Store
+
+# Logy
+*.log
+npm-debug.log*
+
+# Lokální proměnné prostředí
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/
+.idea/
